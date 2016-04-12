@@ -1,7 +1,7 @@
 # DipTrace PCB of BitsyBitsy project
 
-<img src="https://rawgit.com/bitsybits/pcb-diptrace/master/doc/pcb_bottom.svg" width="49%"> 
-<img src="https://rawgit.com/bitsybits/pcb-diptrace/master/doc/pcb_top.svg" width="49%">
+<img src="https://raw.githack.com/bitsybits/pcb-diptrace/master/doc/pcb_bottom.svg" width="49%"> 
+<img src="https://raw.githack.com/bitsybits/pcb-diptrace/master/doc/pcb_top.svg" width="49%">
 
 ## Cnangelog
 - 0.3.10rc - New GPIO panel added
